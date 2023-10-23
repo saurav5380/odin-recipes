@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Norse";
+  src: url("../odin-recipes/font/NorseBold.otf");
+}
+
+h1 {
+  font-family: "Norse";
+  font-size: 96px;
+  margin: 4%;
+  text-align: center;
+}
